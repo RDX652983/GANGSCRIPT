@@ -1,0 +1,2 @@
+# GANGSCRIPT
+script roblox
